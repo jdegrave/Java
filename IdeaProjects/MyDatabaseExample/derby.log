@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 24 21:31:41 CST 2015:
+Booting Derby (version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631)) instance a816c00e-0151-3cb2-5e34-0000049e3ac8 
+on database directory C:\Program Files\Java\jdk1.8.0_60\db\bin\myDB in READ ONLY mode with class loader sun.misc.Launcher$AppClassLoader@5451c3a8. 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_60/db/lib/derby.jar.
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=C:\Users\jdegrave\IdeaProjects\MyDatabaseExample
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
