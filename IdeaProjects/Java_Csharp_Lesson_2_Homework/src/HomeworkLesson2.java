@@ -39,7 +39,7 @@ public class HomeworkLesson2 {
 
 
 
-        System.out.println("My Lesson 2 Homework in C#");
+        System.out.println("My Lesson 2 Homework in Java");
         System.out.println("This program checks what is entered, and if possible, converts");
         System.out.println("whatever you enter to each of the following datatypes:");
         System.out.println();
